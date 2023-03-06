@@ -1,1 +1,1 @@
-# adiing an image and back- color
+# HI there! this repoository contains my assignments 
