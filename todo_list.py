@@ -5,11 +5,10 @@ store = {}
 print(type (store))
 def request():
     print("your options are:")
-    print("i. methods")
-    print("ii. add")
-    print("iii. delete")
-    print("iv. view")
-    print("v exit")
+    print("i. add")
+    print("ii. delete")
+    print("iii view")
+    print("iv exit")
 while user_input != "exit":
     request()
     user_input = input("choose your request: ")
